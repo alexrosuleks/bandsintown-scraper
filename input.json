@@ -1,0 +1,12 @@
+{
+  "artists": [
+    "Metallica"
+  ],
+  "maxEventsPerInput": 20,
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "RESIDENTIAL"
+    ]
+  }
+}
